@@ -1,8 +1,7 @@
 {
-"posts":[
-{"idPrestamo":1, "libro":"Blanca Nieves", "usuario":"Maria", "fecPrestamo":"2020-11-22","fecPrestamo":"2021-06-15" },
-{"idPrestamo":2, "libro":"Gallinaso sin plumas", "usuario":"Pedro", "fecPrestamo":"2021-11-22","fecPrestamo":"2021-12-15"},
-{"idPrestamo":3, "libro":"Ojo", "usuario":"Ximena", "fecPrestamo":"2022-11-22","fecPrestamo":"2023-12-17"},
-{"idPrestamo":4, "libro":"Padre", "usuario":"Marco", "fecPrestamo":"2022-06-22","fecPrestamo":"2023-08-14"}
+"prestamo":[
+{"idPrestamo":1, "libro":"Blanca Nieves", "usuario":"Maria", "fecPrestamo":"2020-11-22","fecDevolucion":"2021-06-15"},
+{"idPrestamo":2, "libro":"Gallinaso sin plumas", "usuario":"Pedro", "fecPrestamo":"2021-11-22","fecDevolucion":"2021-12-15"},
+{"idPrestamo":3, "libro":"Ojo", "usuario":"Ximena", "fecPrestamo":"2022-11-22","fecDevolucion":"2023-12-17"}
 ]
 }
